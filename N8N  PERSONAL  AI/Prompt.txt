@@ -1,0 +1,22 @@
+Prompt 
+
+Send an email to ragulhitman7@gmail.com with the subject 'Meeting Invitation: Project Progress Review on August 20, 2025'. The body should say:
+
+Dear Ragul,
+
+I hope you’re doing well.
+
+I would like to invite you to a meeting scheduled for Wednesday, August 20, 2025, to review our current project progress and outline the next steps. Your insights are valuable, and your participation would be greatly appreciated.
+
+Meeting Details:
+• Date: August 20, 2025
+• Time: 10:00 AM – 11:00 AM
+• Location: Google Meet (Link will be shared soon)
+• Agenda: Project progress review and planning
+
+Please confirm your availability or suggest a different time if needed.
+
+Looking forward to your response.
+
+Best regards,
+Ragul M R
